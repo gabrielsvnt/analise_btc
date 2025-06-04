@@ -4,6 +4,8 @@
 Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA) de transações de Bitcoin utilizando Python e bibliotecas como Pandas, Matplotlib e Seaborn. O notebook aborda desde a criação do dataframe até a aplicação de filtros, agrupamentos e visualização dos dados.
 
 ## Funcionalidades
+- ⚙️ API
+  
 - 📄 Criação de um DataFrame com dados fictícios de transações de Bitcoin.
 
 - ➕ Cálculo do total investido em BTC por transação.
