@@ -1,36 +1,33 @@
 # analise_btc
 
-Análise de Dados de Transações de Bitcoin 🪙📊
-Descrição
+# Análise de Dados de Transações de Bitcoin 🪙📊
+
+## Descrição
 Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA) de transações de Bitcoin utilizando Python e bibliotecas como Pandas, Matplotlib e Seaborn. O notebook aborda desde a criação do dataframe até a aplicação de filtros, agrupamentos e visualização dos dados.
 
-Funcionalidades
-📄 Criação de um DataFrame com dados fictícios de transações de Bitcoin.
+## Funcionalidades
+- 📄 Criação de um DataFrame com dados fictícios de transações de Bitcoin.
 
-➕ Cálculo do total investido em BTC por transação.
+- ➕ Cálculo do total investido em BTC por transação.
 
-🔍 Filtragem de clientes que possuem mais de 1 BTC.
+- 🔍 Filtragem de clientes que possuem mais de 1 BTC.
 
-🗂️ Ordenação das transações pelo preço do Bitcoin.
+- 🗂️ Ordenação das transações pelo preço do Bitcoin.
 
-📆 Agrupamento de dados por mês de compra.
+- 📆 Agrupamento de dados por mês de compra.
 
-✅ Aplicação de condições para classificar transações acima de determinado valor.
+- ✅ Aplicação de condições para classificar transações acima de determinado valor.
 
-📈 Geração de estatísticas descritivas.
+- 📈 Geração de estatísticas descritivas.
 
-🔍 Verificação de dados nulos e consistência da base.
+- 🔍 Verificação de dados nulos e consistência da base.
 
-Tecnologias Utilizadas
-Python 🐍
+## Tecnologias Utilizadas
+- Python 🐍
+- Pandas 🐼
+- Plotly 📊
 
-Pandas 🐼
-
-NumPy
-
-Plotly 📊
-
-Como Executar
+## Como Executar
 Clone este repositório:
 
 bash
@@ -49,13 +46,10 @@ bash
 Copiar
 Editar
 jupyter notebook analise_btc.ipynb
-Estrutura do Notebook
-📂 Criação e manipulação de DataFrames
 
-🧠 Aplicação de filtros e condições
-
-📊 Análises estatísticas básicas
-
-🔎 Limpeza e verificação dos dados
-
-📅 Análise temporal das compras
+## Estrutura do Notebook
+- 📂 Criação e manipulação de DataFrames
+- 🧠 Aplicação de filtros e condições
+- 📊 Análises estatísticas básicas
+- 🔎 Limpeza e verificação dos dados
+- 📅 Análise temporal das compras
