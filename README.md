@@ -25,26 +25,6 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 - Pandas 🐼
 - Plotly 📊
 
-## Como Executar
-Clone este repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/analise-btc.git
-Instale as dependências:
-
-bash
-Copiar
-Editar
-pip install -r requirements.txt
-Execute o notebook:
-
-bash
-Copiar
-Editar
-jupyter notebook analise_btc.ipynb
-
 ## Estrutura do Notebook
 - 📂 Criação e manipulação de DataFrames
 - 🧠 Aplicação de filtros e condições
