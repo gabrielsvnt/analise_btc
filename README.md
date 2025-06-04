@@ -1,5 +1,3 @@
-# analise_btc
-
 # Análise de Dados de Transações de Bitcoin 🪙📊
 
 ## Descrição
